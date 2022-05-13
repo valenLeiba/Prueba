@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1652410643 source:c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\main.cpp
+	<iostream>
+	<list>
+	"Grafo.h"
+	"vertice.h"
+	"arco.h"
+	"string"
+
+1652409032 c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\include\grafo.h
+	"arco.h"
+	<list>
+	<set>
+	"iostream"
+
+1652410617 source:c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\src\grafo.cpp
+	"Grafo.h"
+	<list>
+	"arco.h"
+	"string"
+	"iostream"
+
+1652410517 source:c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\src\arco.cpp
+	"arco.h"
+	<list>
+	"iostream"
+
+1652410487 c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\include\arco.h
+	"string"
+	<list>
+
+1652396169 source:c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\src\vertice.cpp
+	"vertice.h"
+
+1652396210 c:\users\usuario\documents\ayda 2\proyectos c++\grafos_practica\include\vertice.h
+	"string"
+
